@@ -88,8 +88,8 @@
         "2606:4700:110:81f9:5bb5:638a:576b:a52a/128"
       ],
       "private_key": "WE4jMrCptNgS9N4z75LkCQ6B7yMC/NYhKW+gxWcy2E8=",
-      "server": "162.159.195.171",
-      "server_port": 8854,
+      "server": "188.114.97.123",
+      "server_port": 500,
       "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
       "reserved": "Jd1W",
       "mtu": 1280,
