@@ -104,8 +104,8 @@
         "2606:4700:110:8d79:ef9:50cb:1c8f:ad27/128"
       ],
       "private_key": "4DbUZm4HplA+I5kE0GO3scKJdYXuR03TSsecmxn/aHw=",
-      "server": "162.159.195.171",
-      "server_port": 8854,
+      "server": "162.159.195.182",
+      "server_port": 1002,
       "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
       "reserved": "PhkE",
       "mtu": 1280,
